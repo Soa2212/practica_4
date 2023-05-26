@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+    justify-content: space-between;
+    widows:33vw;
+    height: 33vh;
+    background-color: rgb(215, 250, 242);
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.cubo{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    color: white;
+    padding: 20px;
+    line-height: 60px;
+    font-size: 60px;
+}
+
+#container2{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    widows:33vw;
+    height: 33vh;
+    background-color: rgb(215, 250, 242);
+}
+#container1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    widows:33vw;
+    height: 33vh;
+    background-color: rgb(215, 250, 242);
+}
